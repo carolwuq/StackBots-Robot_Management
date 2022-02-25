@@ -1,7 +1,7 @@
 This is my first project and I am still exploring more on UI. Through the link here find other things that I am working on.
 
 # Valentine's Special: Robot/Project ManagementTool
-We run StackBots Inc., a business staffed entirely by robots. Each robot may be assigned to several projects at a time. I created a RESTful web platform that allows us to manage our robots and projects. 
+I run StackBots Inc., a business staffed entirely by robots. Each robot may be assigned to several projects at a time. I created a RESTful web platform that allows us to manage our robots and projects. 
 
 The key features of the StackBots Website is as follows. 
 1. Homepage. You may navigate through "Home", "Robots" and "Projects" on top.
