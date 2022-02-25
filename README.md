@@ -1,4 +1,4 @@
-This is my first project and I am still working more on UI. Through the link here find other things that I am working on.
+This is my first project and I am still exploring more on UI. Through the link here find other things that I am working on.
 
 # Valentine's Special: Robot/Project ManagementTool
 We run StackBots Inc., a business staffed entirely by robots. Each robot may be assigned to several projects at a time. I created a RESTful web platform that allows us to manage our robots and projects. 
